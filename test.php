@@ -1,3 +1,2 @@
 <?php
-echo "hi";
-print("bybybyb....");
+echo "hello world";
